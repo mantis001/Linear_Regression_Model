@@ -4,12 +4,11 @@ The Delaney ML Project is designed to predict the solubility of molecules, a cru
 
 ## Dataset
 The dataset used in this project is the Delaney solubility dataset, which contains:
-
 - Molecular descriptors
 - Experimental solubility values
 
 ## Project Structure
-- Import necessary libraris and load dataset
+- Import necessary libraris and load dataset.
 - Data Preparation: Preparation of the dataset for modeling, including feature and target variable separation, followed by training and test set splitting.
 - Model Building and Model Evaluation:
    - Linear Regression: Baseline model for prediction accuracy.
