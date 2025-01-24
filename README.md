@@ -14,5 +14,5 @@ The dataset used in this project is the Delaney solubility dataset, which contai
 - Model Building and Model Evaluation:
    - Linear Regression: Baseline model for prediction accuracy.
    - Random Forest: Advanced model for capturing complex patterns.
--  Evaluation of models using metrics like RMSE and R-squared.
+-  Evaluation of models using metrics like MSE and R-squared.
 - Data Visualization: Visualization of actual vs. predicted solubility values.
